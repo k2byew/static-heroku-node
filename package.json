@@ -4,7 +4,7 @@
   "description": "Static applciation to host vanilla HTML/CSS",
   "main": "app.js",
   "scripts": {
-    "test": "foreman start"
+    "test": "exit"
   },
   "repository": "",
   "author": "Aditya Bansod (@adityabansod, http://www.adityabansod.net)",
