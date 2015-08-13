@@ -1,0 +1,5 @@
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: static-heroku-node-c9-circle
